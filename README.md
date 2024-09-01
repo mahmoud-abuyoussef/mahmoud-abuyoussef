@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoudabuyoussef0&label=Profile%20views&color=0e75b6&style=flat)
 
-## About Me
+## 💫 About Me
 
 With over 2 years of hands-on experience in front-end web development,
 
@@ -21,7 +21,7 @@ A creative problem solver 🧠.
 I take pride in bringing websites to life 🚀.
 
 
-Experience:
+## Experience
 
 - My experience includes working on creating Websites using React.js and Vue.js.
   with delivering high-performance and accessible websites.
@@ -40,12 +40,12 @@ Experience:
 - Additionally, my journey includes serving as a part-time teacher 
   front-end user interface and uplifting the learning experience.
 
-## Connect with me 🤝
+## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudabuyoussef)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mahmoudabuyoussef5@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201030755691)
 
-![img](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## Tech Stack
 
@@ -53,11 +53,11 @@ Experience:
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
-- ### Styling 🎨
+- ### 🎨 Styling
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
   ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 
-- ### Programming Language 🧠
+- ### 🧠 Programming Language
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
@@ -74,7 +74,6 @@ Experience:
     ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
     ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
     ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82)
-
 
 - ### Tools
 
@@ -105,6 +104,8 @@ Experience:
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## 🎓 Education
 ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)
@@ -118,7 +119,13 @@ Experience:
 ![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
 
-## GitHub Stats
-![mahmoud-abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=390)
+## 📊 GitHub Stats
+![mahmoud-abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=830)
 ![mahmoud-abuyoussef's Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=390)
 ![mahmoud-abuyoussef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=390)
+
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
