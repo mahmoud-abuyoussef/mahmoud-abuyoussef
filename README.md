@@ -40,7 +40,8 @@
   front-end user interface and uplifting the learning experience.
 
 ## 📜 Certifications
-- [My certifications](https://github.com/mahmoud-abuyoussef/Certificates)
+- **[My certifications](https://github.com/mahmoud-abuyoussef/Certificates "Go to my certification repo")**
+
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudabuyoussef)
