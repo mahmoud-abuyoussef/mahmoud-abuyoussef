@@ -117,3 +117,8 @@ Experience:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mahmoudabuyoussef)
 ![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
+
+## GitHub Stats
+![mahmoud-abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=400)
+![mahmoud-abuyoussef's Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=400)
+![mahmoud-abuyoussef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=400)
