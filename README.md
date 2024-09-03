@@ -91,21 +91,21 @@
     ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
     ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)
   
-  - #### 🤝 Collaboration Tools
-    ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
-    ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
-    ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
-    ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
+  - #### 🎨 Design
+    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
   
   - #### 🤖 Artificial Intelligence
     ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
     ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
     ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 
-  - #### 🎨 Design
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
+  - #### 🤝 Collaboration Tools
+    ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+    ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+    ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+    ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
+  
 - ### ☁️ Cloud Systems
   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
