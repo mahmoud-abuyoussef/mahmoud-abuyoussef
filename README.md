@@ -54,7 +54,7 @@
 
 - ### Markup Language
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-  ![Pug.js Template Engine](https://img.shields.io/badge/Pug.js-%230077B5.svg?logo=pug&logoColor=white)
+  ![Pug.js Template Engine](https://img.shields.io/badge/pug.js-FFF?logo=pug&logoColor=A86454)
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 - ### 🎨 Styling
@@ -91,7 +91,10 @@
     ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
     ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
     ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)
-  
+
+  - #### Automation
+    ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?&logo=GULP&logoColor=white)
+    
   - #### 🎨 Design
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
