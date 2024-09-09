@@ -92,7 +92,7 @@
     ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
     ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)
 
-  - #### Automation
+  - #### 🤖 Automation
     ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?&logo=GULP&logoColor=white)
     
   - #### 🎨 Design
