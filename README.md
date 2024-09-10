@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-- With over 2 years of hands-on experience in front-end web development,
+- With over 3 years of hands-on experience in front-end web development,
 
 - I am a passionate front-end developer dedicated to user-centered design.
 
