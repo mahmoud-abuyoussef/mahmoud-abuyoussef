@@ -85,7 +85,7 @@
     
   - #### 🔖 Version Control System
     ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mahmoudabuyoussef0/)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
   
   - #### 📦 Package Managers
     ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
@@ -109,6 +109,8 @@
     ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
     ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
     ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
   
 - ### ☁️ Cloud Systems
   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
