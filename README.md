@@ -136,6 +136,17 @@
 ![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
 
+## 📊 GitHub Stats
+![mahmoud-abuyoussef's Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=dark)
+![mahmoud-abuyoussef's Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-abuyoussef&theme=dark)
+![mahmoud-abuyoussef's Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-abuyoussef&theme=dark)
+![mahmoud-abuyoussef's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-abuyoussef&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=dark&utcOffset=8)
+
+![mahmoud-abuyoussef's Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![mahmoud-abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true)
+![mahmoud-abuyoussef's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
