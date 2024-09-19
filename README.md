@@ -135,6 +135,13 @@
 ![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
 
+## 🏆 GitHub Trophies
+![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## ✍️ Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--
 ## 📊 GitHub Stats
 ![mahmoud abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=700)
 ![mahmoud abuyoussef's Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=dark)
@@ -143,9 +150,4 @@
 ![mahmoud abuyoussef's Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-abuyoussef&theme=dark)
 ![mahmoud abuyoussef's Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-abuyoussef&theme=dark) <br>
 ![mahmoud abuyoussef's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true)
-
-## 🏆 GitHub Trophies
-![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
