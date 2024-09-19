@@ -53,7 +53,7 @@
 
 - ### Markup Language
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-  ![Pug.js Template Engine](https://img.shields.io/badge/pug.js-FFF?logo=pug&logoColor=A86454)
+  ![Template Engine](https://img.shields.io/badge/-PugJs-05122A?style=flat&logo=Pug)
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 - ### 🎨 Styling
