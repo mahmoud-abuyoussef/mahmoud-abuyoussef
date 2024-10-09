@@ -81,6 +81,7 @@
 
   - #### 💻 IDE/Code Editors
     ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+    ![Cursor](https://custom-icon-badges.demolab.com/badge/cursor_ide-000000.svg?logo=cursor_ide&logoColor=white)
     
   - #### 🔖 Version Control System
     ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
