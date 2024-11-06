@@ -143,7 +143,7 @@
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📊 GitHub Stats
-![mahmoud abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=700)
+<!-- ![mahmoud abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=700) -->
 ![mahmoud abuyoussef's Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=dark)
 ![mahmoud abuyoussef's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![mahmoud abuyoussef's Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=dark&utcOffset=8)
