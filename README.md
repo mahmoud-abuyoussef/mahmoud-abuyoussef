@@ -139,9 +139,6 @@
 ## 🏆 GitHub Trophies
 ![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 📊 GitHub Stats
 <!-- ![mahmoud abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=700) -->
 ![mahmoud abuyoussef's Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=dark)
