@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mahmoud Abuyoussef
-## A passionate Front-End Web developer
+## Front-End Web developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-abuyoussef&label=Profile%20views&color=0e75b6&style=flat)
 
