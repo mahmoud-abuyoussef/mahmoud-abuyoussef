@@ -19,9 +19,6 @@
 
 - A creative problem solver.
 
-- I take pride in bringing websites to life.
-
-
 ## 💪 Experience
 
 - My experience includes working on creating Websites using React.js and Vue.js.
@@ -142,7 +139,6 @@
 ![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats
-<!-- ![mahmoud abuyoussef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-abuyoussef&theme=dark&hide_border=true&card_width=700) -->
 ![mahmoud abuyoussef's Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=dark)
 ![mahmoud abuyoussef's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-abuyoussef&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![mahmoud abuyoussef's Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=dark&utcOffset=8)
