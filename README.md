@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Mahmoud Abuyoussef
+## Founder & CEO @ MSA Web Solutions
 ## Front-End Web developer
+## Programming Instructor
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-abuyoussef&label=Profile%20views&color=0e75b6&style=flat)
 
