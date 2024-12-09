@@ -35,7 +35,7 @@
   I successfully increased student engagement and eliminated previous loading speed issues,
   further enhancing the site for learning purposes.
 
-- Additionally, my journey includes serving as a part-time teacher 
+- Additionally, my journey includes serving as a instructor
   front-end user interface and uplifting the learning experience.
 
 ## 📜 Certifications
