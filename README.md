@@ -8,36 +8,47 @@
 
 ## 💫 About Me
 
-- With 4 years of hands-on experience in front-end web development,
+- With over 4 years of hands-on experience in front-end web development.
 
 - I am a passionate front-end developer dedicated to user-centered design.
 
-- I excel in transforming designs into fully functional, responsive websites.
+- I excel at transforming designs into fully functional, responsive websites.
 
-- I have a strong track record of delivering high-performance and accessible websites.
+- I have a proven track record of delivering highly functional, accessible websites.
 
-- I am adept at creating captivating landing pages for the marketing team and thrive on remote collaboration with front-end developers.
+- User Interface Design: I have created engaging, user-friendly front-ends for websites using JavaScript frameworks like React.js and Vue.js, with a focus on enhancing the user experience.
 
-- A creative problem solver.
+- I am adept at creating engaging landing pages for the marketing team and thrive on collaborating remotely with front-end and back-end developers.
+
+- Creative problem solving.
+
+- I take pride in bringing websites to life.
 
 ## 💪 Experience
 
-- My experience includes working on creating Websites using React.js and Vue.js.
-  with delivering high-performance and accessible websites.
+- Leading a team of front-end developers.
 
-- My expertise also extends to creating news websites using WordPress CMS,
-  I made it seamless for publishers to interact with the site.
-  By assigning permissions to each user on the site and enhancing its visibility on search engines,
-  I successfully drove a significant increase in the number of site users. Adding features such as continuous notifications for users upon news publication and implementing live broadcast functionality further contributed to the site's success,
-  all while enhancing its loading speed.
+- Ensuring code quality and improving application performance.
 
-- My expertise also extends to creating educational websites using the Moodle learning management system.
-  Focusing on improving the user interface,
-  I successfully increased student engagement and eliminated previous loading speed issues,
-  further enhancing the site for learning purposes.
+- Participating in product design and developing new features.
 
-- Additionally, my journey includes serving as a instructor
-  front-end user interface and uplifting the learning experience.
+- Guiding and supporting team members in their professional development.
+
+- Reviewing and providing feedback on code and design.
+
+- Collaborating with cross-functional teams to align development with business goals.
+
+- working on building websites using React.js and Vue.js.
+
+- Delivering high-performance and accessible websites.
+
+- building news websites using WordPress CMS, I made it seamless for publishers to interact with the site, By setting permissions for each user on the site and enhancing its visibility on search engines, I succeeded in driving a significant increase in the number of site users, Adding features such as continuous notifications for users when news is published and implementing a live broadcast function also contributed to the success of the site, All while improving its loading speed.
+
+- building educational websites using the Moodle learning management system, With a focus on improving the user interface, I succeeded in increasing student engagement and eliminating previous loading speed issues, which led to improving the site for learning purposes.
+
+- building a system for managing a law firm inside and outside Egypt and Saudi Arabia.
+
+- In addition, my journey includes working as a programming, user interface, and improving the learning experience teacher.
 
 ## 📜 Certifications
 - **[My certifications](https://github.com/mahmoud-abuyoussef/Certificates "Go to my certification repo")**
