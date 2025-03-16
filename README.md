@@ -59,7 +59,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201030755691)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/mahmoudabuyoussef)
 
-- **<a href="https://mahmoudabuyoussef.vercel.app" target="_blank">Visit My Portfolio</a>**
+- **[Visit My Portfolio](https://mahmoudabuyoussef.vercel.app)**
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🧳 Tech Stack
