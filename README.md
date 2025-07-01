@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mahmoud Abuyoussef
 ## Founder & CEO @ MSA Web Solutions
-## Front-End Web developer
+## Front-End Web Developer
 ## Front-End Instructor
 ## SEO Optimizer
 
@@ -38,20 +38,20 @@
 
 - Collaborating with cross-functional teams to align development with business goals.
 
-- working on building websites using React.js and Vue.js.
+- Working on building websites using React.js and Vue.js.
 
 - Delivering high-performance and accessible websites.
 
 - building news websites using WordPress CMS, I made it seamless for publishers to interact with the site, By setting permissions for each user on the site and enhancing its visibility on search engines, I succeeded in driving a significant increase in the number of site users, Adding features such as continuous notifications for users when news is published and implementing a live broadcast function also contributed to the success of the site, All while improving its loading speed.
 
-- building educational websites using the Moodle learning management system, With a focus on improving the user interface, I succeeded in increasing student engagement and eliminating previous loading speed issues, which led to improving the site for learning purposes.
+- Building educational websites using the Moodle learning management system, with a focus on improving the user interface, I successfully increased student engagement and resolved previous loading speed issues, ultimately enhancing the site for learning purposes.
 
-- building a system for managing a law firm inside and outside Egypt and Saudi Arabia.
+- Building a system for managing a law firm inside and outside Egypt and Saudi Arabia.
 
-- In addition, my journey includes working as a programming, user interface, and improving the learning experience teacher.
+- In addition, my journey includes working as a programmer, user interface designer, and improving the learning experience for teachers.
 
 ## 📜 Certifications
-- **[My certifications](https://github.com/mahmoud-abuyoussef/Certificates "Go to my certification repo")**
+- **[My Education Certifications](https://github.com/mahmoud-abuyoussef/Certifications "Go to my certification repo")**
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudabuyoussef)
