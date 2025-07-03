@@ -133,17 +133,19 @@
   ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
 
 - ### Learning Management System
-  ![moodle (LMS)](https://img.shields.io/badge/Moodle-F24E1E?logo=moodle&logoColor=white)
+  ![Moodle (LMS)](https://img.shields.io/badge/Moodle-F24E1E?logo=moodle&logoColor=white)
   
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🎓 Education
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff)
+![Microsoft Learn](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff)
+![LinkedIn Learning](https://img.shields.io/badge/Microsoft%20Learn-0A66C2?logo=microsoft&logoColor=fff)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)
 ![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
+![Manara](https://img.shields.io/badge/Manara-F24E1E?logo=manara&logoColor=white)  
 
 ## 💼 Work and Jobs
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mahmoudabuyoussef)
