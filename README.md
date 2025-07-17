@@ -51,7 +51,7 @@
 - In addition, my journey includes working as a programmer, user interface designer, and improving the learning experience for teachers.
 
 ## 📜 Certifications
-- **[My Education Certifications](https://github.com/mahmoud-abuyoussef/Certifications "Go to my certification repo")**
+- **[My Education Certifications](https://mahmoudabuyoussef.vercel.app/certifications "Go to my certification repo")**
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudabuyoussef)
