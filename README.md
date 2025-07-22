@@ -8,47 +8,11 @@
 
 ## 💫 About Me
 
-- With over 4 years of hands-on experience in front-end web development.
+Hello! I'm Mahmoud Abuyoussef, Senior Front-End Developer with +4 years of production-level experience building scalable web applications in ERP, CRM, education, and media industries. Specializing in React.js, Next.js, TypeScript, and performance-driven architectures. Proven ability to lead complex projects from scratch, mentor junior developers, and deliver clean, scalable, maintainable solutions aligned with business goals.
 
-- I am a passionate front-end developer dedicated to user-centered design.
+Led end-to-end development of production-ready ERP & CRM platforms with +20 modules, including HR, Accounting, Inventory, and Sales. Customized Moodle LMS for 600+ students and launched an Arabic news portal reaching 20,000+ users/month with top-tier SEO.
 
-- I excel at transforming designs into fully functional, responsive websites.
-
-- I have a proven track record of delivering highly functional, accessible websites.
-
-- User Interface Design: I have created engaging, user-friendly front-ends for websites using JavaScript frameworks like React.js and Vue.js, with a focus on enhancing the user experience.
-
-- I am adept at creating engaging landing pages for the marketing team and thrive on collaborating remotely with front-end and back-end developers.
-
-- Creative problem solving.
-
-- I take pride in bringing websites to life.
-
-## 💪 Experience
-
-- Leading a team of front-end developers.
-
-- Ensuring code quality and improving application performance.
-
-- Participating in product design and developing new features.
-
-- Guiding and supporting team members in their professional development.
-
-- Reviewing and providing feedback on code and design.
-
-- Collaborating with cross-functional teams to align development with business goals.
-
-- Working on building websites using React.js and Vue.js.
-
-- Delivering high-performance and accessible websites.
-
-- building news websites using WordPress CMS, I made it seamless for publishers to interact with the site, By setting permissions for each user on the site and enhancing its visibility on search engines, I succeeded in driving a significant increase in the number of site users, Adding features such as continuous notifications for users when news is published and implementing a live broadcast function also contributed to the success of the site, All while improving its loading speed.
-
-- Building educational websites using the Moodle learning management system, with a focus on improving the user interface, I successfully increased student engagement and resolved previous loading speed issues, ultimately enhancing the site for learning purposes.
-
-- Building a system for managing a law firm inside and outside Egypt and Saudi Arabia.
-
-- In addition, my journey includes working as a programmer, user interface designer, and improving the learning experience for teachers.
+Expert in reusable component design, performance optimization, agile methodologies, clean architecture, and scalable front-end systems.
 
 ## 📜 Certifications
 - **[My Education Certifications](https://mahmoudabuyoussef.vercel.app/certifications "Go to my certification repo")**
@@ -151,6 +115,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mahmoudabuyoussef)
 ![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
+
+## 🏆 GitHub Achievements
+![GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-FFD700?logo=github&logoColor=000)
+
+Check out my GitHub achievements 👉 [mahmoud-abuyoussef's Achievements](https://github.com/users/mahmoud-abuyoussef/achievements)
+
 
 ## 🏆 GitHub Trophies
 ![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
