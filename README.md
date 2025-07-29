@@ -124,6 +124,7 @@ Check out my GitHub achievements 👉 [mahmoud-abuyoussef's Achievements](https:
 
 ## 🏆 GitHub Trophies
 ![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-bg=false&margin-w=4)
+![mahmoud abuyoussef's Trophies](https://github-profile-trophy.vercel.app/?username=mahmoud-abuyoussef&theme=radical&title=Reviews&margin-w=4)
 
 ## 📊 GitHub Stats
 ![mahmoud abuyoussef's Contributions in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=dark)
