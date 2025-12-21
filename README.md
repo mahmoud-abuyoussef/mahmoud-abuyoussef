@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Mahmoud Abuyoussef
 ## Founder & CEO @ MSA Web Solutions
-## Back-End Engineer
-## Ex Front-End Engineer
+## Front-End Engineer
 ## Front-End Instructor
 ## SEO Optimizer
 
