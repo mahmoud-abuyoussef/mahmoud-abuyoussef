@@ -2,8 +2,9 @@
 ## Founder & CEO @ MSA Web Solutions
 ## Front-End Engineer
 ## Front-End Instructor
+## Certified Trainer
 ## SEO Optimizer
-
+## Mentor
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-abuyoussef&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 💫 About Me
