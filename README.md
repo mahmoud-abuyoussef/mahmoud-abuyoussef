@@ -9,11 +9,22 @@
 
 ## 💫 About Me
 
-Hello! I'm Mahmoud Abuyoussef, Senior Front-End Engineer with +4 years of production-level experience building scalable web applications in ERP, CRM, education, and media industries. Specializing in React.js, Next.js, TypeScript, and performance-driven architectures. Proven ability to lead complex projects from scratch, mentor junior developers, and deliver clean, scalable, maintainable solutions aligned with business goals.
+Front-End Engineer with 4+ years of production-level experience building scalable web applications in ERP, CRM, education, and media industries.
 
-Led end-to-end development of production-ready ERP & CRM platforms with +20 modules, including HR, Accounting, Inventory, and Sales. Customized Moodle LMS for 600+ students and launched an Arabic news portal reaching 20,000+ users/month with top-tier SEO.
+Specializing in React.js, Next.js, TypeScript, and performance-driven architectures. 
+
+Proven ability to lead complex projects from scratch, mentor junior developers, and deliver clean, scalable, maintainable solutions aligned with business goals. 
+
+Led end-to-end development of production-ready ERP & CRM platforms, including HR, Accounting, Inventory, and Sales.
+
+Customized Moodle LMS for 600+ students and launched an Arabic news portal reaching 20,000+ users/month with top-tier SEO. 
 
 Expert in reusable component design, performance optimization, agile methodologies, clean architecture, and scalable front-end systems.
+
+Experienced in integrating and developing headless CMS solutions and familiar with content modeling, 
+API delivery, and modular architecture. 
+
+Currently focused on building high-performance, scalable front-end ecosystems and contributing to impactful digital products.
 
 ## 📜 Certifications
 - **[My Education Certifications](https://mahmoudabuyoussef.vercel.app/certifications "Go to my certification repo")**
