@@ -134,8 +134,7 @@ Currently focused on building high-performance, scalable front-end ecosystems an
 Check out my GitHub achievements 👉 [mahmoud-abuyoussef's Achievements](https://github.com/users/mahmoud-abuyoussef/achievements)
 
 ## 🏆 GitHub Trophies
-![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=mahmoud-abuyoussef&theme=radical&no-bg=false&margin-w=4)
-![mahmoud abuyoussef's Trophies](https://github-profile-trophy.vercel.app/?username=mahmoud-abuyoussef&theme=radical&title=Experience&title=Reviews&margin-w=4)
+![mahmoud abuyoussef's Trophies](https://mahmoudabuyoussef-github.vercel.app)
 
 ## 📊 GitHub Stats
 ![mahmoud abuyoussef's Contributions in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=radical)
