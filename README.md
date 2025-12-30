@@ -142,4 +142,3 @@ Check out my GitHub achievements 👉 [mahmoud-abuyoussef's Achievements](https:
 ![mahmoud abuyoussef's Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=radical&utcOffset=8)
 ![mahmoud abuyoussef's Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-abuyoussef&theme=radical)
 ![mahmoud abuyoussef's Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-abuyoussef&theme=radical) <br>
-![mahmoud abuyoussef's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abuyoussef&theme=radical&show_icons=true&hide_border=true)
