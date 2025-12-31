@@ -129,16 +129,16 @@ Currently focused on building high-performance, scalable front-end ecosystems an
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
 
 ## 🏆 GitHub Achievements
-![GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-FFD700?logo=github&logoColor=000)
+![mahmoud abuyoussef's GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-FFD700?logo=github&logoColor=000)
 
 Check out my GitHub achievements 👉 [mahmoud-abuyoussef's Achievements](https://github.com/users/mahmoud-abuyoussef/achievements)
 
 ## 🏆 GitHub Trophies
-![mahmoud abuyoussef's Trophies](https://mahmoudabuyoussef-github.vercel.app)
+![mahmoud abuyoussef's GitHub Trophies](https://mahmoudabuyoussef-github.vercel.app)
 
 ## 📊 GitHub Stats
-![mahmoud abuyoussef's Contributions in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=radical)
-![mahmoud abuyoussef's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-abuyoussef&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![mahmoud abuyoussef's Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=radical&utcOffset=8)
-![mahmoud abuyoussef's Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-abuyoussef&theme=radical)
-![mahmoud abuyoussef's Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-abuyoussef&theme=radical) <br>
+![mahmoud abuyoussef's GitHub Contributions in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=radical)
+![mahmoud abuyoussef's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-abuyoussef&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![mahmoud abuyoussef's GitHub Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=radical&utcOffset=8)
+![mahmoud abuyoussef's GitHub Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-abuyoussef&theme=radical)
+![mahmoud abuyoussef's GitHub Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-abuyoussef&theme=radical) <br>
