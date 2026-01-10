@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mahmoud Abuyoussef
-## Front-End Engineer & Certified Trainer
+## Front-End Engineer | WordPress Developer | Technical Trainer
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-abuyoussef&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 💫 About Me
