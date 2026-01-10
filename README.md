@@ -16,9 +16,6 @@ Customized Moodle LMS for 600+ students and launched an Arabic news portal reach
 
 Expert in reusable component design, performance optimization, agile methodologies, clean architecture, and scalable front-end systems.
 
-Experienced in integrating and developing headless CMS solutions and familiar with content modeling, 
-API delivery, and modular architecture. 
-
 Currently focused on building high-performance, scalable front-end ecosystems and contributing to impactful digital products.
 
 ## 📜 Certifications
