@@ -1,8 +1,9 @@
-# Hi there 👋 I'm Mahmoud Abuyoussef
-## Front-End Engineer | WordPress Developer | Technical Trainer
+Hi there 👋 I'm
+# Mahmoud Abuyoussef Front-End Engineer | WordPress Developer | Technical Trainer
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-abuyoussef&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 💫 About Me
+I’m Mahmoud Abuyoussef, a Front-End Engineer and WordPress Developer with 4+ years of experience building scalable, SEO-friendly websites and web applications.
 
 I build high-performance, scalable frontend systems that empower businesses and learners alike.
 
@@ -128,16 +129,16 @@ I specialize in scalable architectures, reusable components, performance optimiz
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
 
 ## 🏆 GitHub Achievements
-![mahmoud abuyoussef's GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-FFD700?logo=github&logoColor=000)
+![Mahmoud Abuyoussef Front-End Engineer GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-FFD700?logo=github&logoColor=000)
 
-Check out my GitHub achievements 👉 [mahmoud-abuyoussef's Achievements](https://github.com/users/mahmoud-abuyoussef/achievements)
+Check out my GitHub achievements 👉 [Mahmoud Abuyoussef Front-End Engineer Achievements](https://github.com/users/mahmoud-abuyoussef/achievements)
 
 ## 🏆 GitHub Trophies
-![mahmoud abuyoussef's GitHub Trophies](https://mahmoudabuyoussef-github-trophies.vercel.app)
+![Mahmoud Abuyoussef Front-End Engineer GitHub Trophies](https://mahmoudabuyoussef-github-trophies.vercel.app)
 
 ## 📊 GitHub Stats
-![mahmoud abuyoussef's GitHub Contributions in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=radical)
-![mahmoud abuyoussef's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-abuyoussef&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![mahmoud abuyoussef's GitHub Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=radical&utcOffset=8)
-![mahmoud abuyoussef's GitHub Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-abuyoussef&theme=radical)
-![mahmoud abuyoussef's GitHub Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-abuyoussef&theme=radical) <br>
+![Mahmoud Abuyoussef Front-End Engineer GitHub Contributions in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=radical)
+![Mahmoud Abuyoussef Front-End Engineer GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-abuyoussef&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Mahmoud Abuyoussef Front-End Engineer GitHub Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-abuyoussef&theme=radical&utcOffset=8)
+![Mahmoud Abuyoussef Front-End Engineer GitHub Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-abuyoussef&theme=radical)
+![Mahmoud Abuyoussef Front-End Engineer GitHub Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-abuyoussef&theme=radical) <br>
