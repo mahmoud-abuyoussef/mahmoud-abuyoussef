@@ -19,16 +19,22 @@ Beyond development, I’m a Technical Trainer, mentoring developers and designin
 
 I specialize in scalable architectures, reusable components, performance optimization, and clean code, and I’m passionate about mentoring the next generation of developers while building products that deliver real business impact.
 
+## 🤝 Connect with me
+[![LinkedIn Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudabuyoussef)
+[![Gmail Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mahmoudabuyoussef5@gmail.com)
+[![WhatsApp Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/message/HD6E5XJJHC3TJ1)
+[![Linktree Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/mahmoudabuyoussef)
+[![Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/Website-000020)](https://mahmoudabuyoussef.vercel.app/)
+
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## 📜 Certifications
 - **[My Education Certifications](https://mahmoudabuyoussef.vercel.app/certifications "Go to my certification repo")**
 
-## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudabuyoussef)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mahmoudabuyoussef5@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/message/HD6E5XJJHC3TJ1)
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/mahmoudabuyoussef)
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 - **[Visit My Website](https://mahmoudabuyoussef.vercel.app)**
+
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🧳 Tech Stack
