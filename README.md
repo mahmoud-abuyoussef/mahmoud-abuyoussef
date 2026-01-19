@@ -4,19 +4,20 @@
 
 ## 💫 About Me
 
-Front-End Engineer with 4+ years of production-level experience building scalable web applications in ERP, CRM, education, and media industries.
+I build high-performance, scalable frontend systems that empower businesses and learners alike.
 
-Specializing in React.js, Next.js, TypeScript, and performance-driven architectures. 
+With 4+ years of hands-on experience in React.js, Next.js, TypeScript,
+I’ve delivered projects across ERP, CRM, CMS, LMS, e-commerce, media platforms, and other domains including Healthcare, Marketing, Sales Funnels, and Personal Projects.
 
-Proven ability to lead complex projects from scratch, mentor junior developers, and deliver clean, scalable, maintainable solutions aligned with business goals. 
+Some highlights:
+- Led end-to-end development of ERP & CRM systems covering HR, Accounting, Inventory, and Sales
+- Built SEO-optimized platforms, including Arabic news portals reaching 20,000+ monthly users
+- Customized and scaled Moodle LMS platforms serving 600+ students
+- Delivered PWAs, dashboards, landing pages, and headless CMS solutions
 
-Led end-to-end development of production-ready ERP & CRM platforms, including HR, Accounting, Inventory, and Sales.
+Beyond development, I’m a Technical Trainer, mentoring developers and designing practical, industry-ready training programs.
 
-Customized Moodle LMS for 600+ students and launched an Arabic news portal reaching 20,000+ users/month with top-tier SEO. 
-
-Expert in reusable component design, performance optimization, agile methodologies, clean architecture, and scalable front-end systems.
-
-Currently focused on building high-performance, scalable front-end ecosystems and contributing to impactful digital products.
+I specialize in scalable architectures, reusable components, performance optimization, and clean code, and I’m passionate about mentoring the next generation of developers while building products that deliver real business impact.
 
 ## 📜 Certifications
 - **[My Education Certifications](https://mahmoudabuyoussef.vercel.app/certifications "Go to my certification repo")**
