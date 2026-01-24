@@ -135,7 +135,7 @@ I specialize in scalable architectures, reusable components, performance optimiz
 Check out my GitHub achievements 👉 [Mahmoud Abuyoussef Front-End Engineer Achievements](https://github.com/users/mahmoud-abuyoussef/achievements)
 
 ## 🏆 GitHub Trophies
-![Mahmoud Abuyoussef Front-End Engineer GitHub Trophies](https://mahmoudabuyoussef-github-trophies.vercel.app)
+![Mahmoud Abuyoussef Front-End Engineer GitHub Trophies](https://mahmoudabuyoussef-github-trophies.vercel.app?cache=1)
 
 ## 📊 GitHub Stats
 ![Mahmoud Abuyoussef Front-End Engineer GitHub Contributions in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-abuyoussef&theme=radical)
