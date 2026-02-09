@@ -25,17 +25,11 @@ I specialize in scalable architectures, reusable components, performance optimiz
 [![Gmail Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mahmoudabuyoussef5@gmail.com)
 [![WhatsApp Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/message/HD6E5XJJHC3TJ1)
 [![Linktree Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/mahmoudabuyoussef)
-[![Mahmoud Abuyoussef Front-End Engineer](https://img.shields.io/badge/Website-000020)](https://mahmoudabuyoussef.vercel.app/)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📜 Certifications
-- **[My Education Certifications](https://mahmoudabuyoussef.vercel.app/certifications "Go to my certification repo")**
-
-![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 🌐 Website
-- **[Visit My Website](https://mahmoudabuyoussef.vercel.app)**
+- **[My Education Certifications](https://github.com/mahmoud-abuyoussef/my-certifications "Go to my certification repo")**
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
