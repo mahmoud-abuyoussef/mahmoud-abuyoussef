@@ -31,7 +31,7 @@ I specialize in scalable architectures, reusable components, performance optimiz
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📜 Certifications
-- **[My Education Certifications](https://github.com/mahmoud-abuyoussef/my-certifications "Go to my certification repo")**
+- **[My Education Certifications](https://mahmoudabuyoussef.com/certifications "Show All My Certifications")**
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
