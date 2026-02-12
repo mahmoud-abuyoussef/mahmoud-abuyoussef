@@ -3,7 +3,7 @@ Hi there 👋 I'm
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-abuyoussef&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 💫 About Me
-I’m Mahmoud Abuyoussef, a Front-End Engineer and WordPress Developer with 4+ years of experience building scalable, SEO-friendly websites and web applications.
+I’m Mahmoud Abuyoussef, a Front-End Engineer and WordPress Developer with 5+ years of experience building scalable, SEO-friendly websites and web applications.
 
 I build high-performance, scalable frontend systems that empower businesses and learners alike.
 
