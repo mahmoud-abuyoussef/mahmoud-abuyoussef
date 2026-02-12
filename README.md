@@ -7,7 +7,7 @@ I’m Mahmoud Abuyoussef, a Front-End Engineer and WordPress Developer with 5+ y
 
 I build high-performance, scalable frontend systems that empower businesses and learners alike.
 
-With 4+ years of hands-on experience in React.js, Next.js, TypeScript,
+With 5+ years of hands-on experience in React.js, Next.js, TypeScript,
 I’ve delivered projects across ERP, CRM, CMS, LMS, e-commerce, media platforms, and other domains including Healthcare, Marketing, Sales Funnels, and Personal Projects.
 
 Some highlights:
